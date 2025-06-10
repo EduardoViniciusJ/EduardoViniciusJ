@@ -1,5 +1,5 @@
 # About Me:
-Desenvolvedor de software full stack, com foco em back-end C# e .NET Core. Atualmente, estou aprendendo e aplicando boas práticas no desenvolvimento de Web APIs, além de explorar design patterns e outras técnicas para melhorar a qualidade do código. Também estou aprendendo front-end com Angular.
+Estudante de desenvolvimento de software full stack, com foco em back-end utilizando C# e .NET Core. Tenho me dedicado ao aprendizado de boas práticas no desenvolvimento de Web APIs, além de estudar design patterns e outras técnicas que contribuem para a escrita de um código mais limpo, eficiente e de fácil manutenção.
 
 
 # Tech Stack:
