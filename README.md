@@ -1,5 +1,5 @@
 # About Me:
-Estudante de Engenharia de Software com forte interesse em desenvolvimento back-end.<br>Sou motivado a explorar e aprender continuamente sobre diferentes áreas da engenharia de software, incluindo novas linguagens, frameworks e tecnologias.<br>Tenho grande afinidade com o ecossistema .NET e busco constantemente aprimorar minhas habilidades e conhecimentos nessa área.
+Estudante de Engenharia de Software com forte interesse em desenvolvimento full stack.<br>Sou motivado a explorar e aprender continuamente sobre diferentes áreas da engenharia de software, incluindo novas linguagens, frameworks e tecnologias.<br>Tenho grande afinidade com o ecossistema .NET e busco constantemente aprimorar minhas habilidades e conhecimentos nessa área.
 
 
 # 💻 Tech Stack:
